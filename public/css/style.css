@@ -1,0 +1,72 @@
+.content-login {
+	margin-top: 70%;
+}
+
+.nav_login {
+	padding-right: 100px;
+}
+
+.sigup-content {
+	padding-top: 20%;
+}
+
+.content-header {
+	padding-left: 200px;
+}
+
+.content {
+	padding-left: 0px;
+}
+
+.conten-left {
+	min-height: 900px;
+}
+
+.conten-left {
+	display:flex;    
+    align-items:flex-start;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.conten-left ul {
+	padding-left: 40px;
+}
+
+.content-header {
+	padding-left: 200px;
+}
+
+.imgheader{
+	margin-left: 70px;
+}
+
+.navbar-dark .navbar-nav .nav-link { 
+	color: #FFFFFF;
+	font-size: 15px;
+}
+
+.default-iteam {
+	color: #FFFFFF;
+	font-size: 15px;
+	padding-left: 20px;
+}
+
+.dropdown-base{
+	color: #161616;
+}
+
+.a-iteam {
+	margin-left: 30px;
+	margin-bottom: 2px;
+	margin-top: 2px;
+}
+
+.welcome {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.content-md10 {
+	padding-left: 0px;
+}
